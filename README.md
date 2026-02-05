@@ -4,4 +4,4 @@ AICT Tools
 Student Name: Ali Hassan 
 Roll Number: 016
 Course Name: BSCS 
-Purpose of repository: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+Purpose of repository:The purpose of this repository is to store & manage ICT/AICT tools specifications and related learning content for academic use.
